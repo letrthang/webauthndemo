@@ -8,3 +8,5 @@ The demo is written on top of Google App Engine. Run
 $ mvn appengine:devserver
 ```
 for a local development server instance.
+
+for Eclipse local debug, to install plug-in Google Cloud Tools for Eclipse -> update Maven project -> Debug as App Engine.
