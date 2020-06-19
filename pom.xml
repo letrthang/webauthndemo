@@ -12,7 +12,7 @@
   <!-- [START set_versions] -->
   <properties>
     <appengine.app.version>1</appengine.app.version>
-    <appengine.sdk.version>1.9.79</appengine.sdk.version>
+    <appengine.sdk.version>1.9.80</appengine.sdk.version>
 
     <objectify.version>5.1.22</objectify.version>
     <guava.version>27.1-jre</guava.version>
@@ -143,7 +143,7 @@
     <dependency>
       <groupId>org.bouncycastle</groupId>
       <artifactId>bcprov-jdk15on</artifactId>
-      <version>1.61</version>
+      <version>1.65</version>
     </dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
